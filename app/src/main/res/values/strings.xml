@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+
+    <string name="navigation_drawer_open">Se ha abierto el menu desplegable</string>
+    <string name="navigation_drawer_close">Se ha cerrado el menu desplegable</string>
+    <string name="title_click">Titulo Pinchado</string>
+    <string name="menu_ajustes">Ajustes</string>
+    <string name="menu_exit">Cerrar Sesión</string>
+    <string name="menu_asis">Asistencias</string>
+    <string name="menu_group">Ajustes usuario</string>
+    <string name="copyright">© Qastusoft</string>
+</resources>
